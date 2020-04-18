@@ -1,1 +1,1 @@
-web: node camera.js
+web:node camera.js
